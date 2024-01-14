@@ -1,6 +1,6 @@
 # StudyNotion EdTech Project
 
-Welcome to the StudyNotion EdTech Project! This web application is designed to [provide a brief description of the purpose and goals of your project].
+Welcome to the StudyNotion EdTech Project! This web application is designed to aims to revolutionize the education experience by providing a comprehensive and innovative platform that empowers learners, educators, and institutions. The primary purpose is to create an inclusive and dynamic environment that fosters continuous learning, collaboration, and personal growth.
 
 ## Table of Contents
 - [Features](#features)
@@ -37,5 +37,4 @@ Contributions are welcome! Please follow these guidelines:
 - Create a pull request
 
 ## License
-[Specify the license under which your project is distributed, e.g., MIT License]
 
