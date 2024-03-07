@@ -37,7 +37,6 @@ Welcome to the StudyNotion EdTech Project! This web application is designed to a
 - [MERN Stack](https://www.mongodb.com/mern-stack): MongoDB, Express.js, React.js, Node.js
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework
 - [Razorpay](https://razorpay.com/): Payment gateway integration
-- [Other technologies used in your project]
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/studynotion-edtech-project.git`
