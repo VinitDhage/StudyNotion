@@ -1,6 +1,6 @@
 # StudyNotion EdTech Project
 
-Welcome to the StudyNotion EdTech Project! This web application is designed to aims to revolutionize the education experience by providing a comprehensive and innovative platform that empowers learners, educators, and institutions. The primary purpose is to create an inclusive and dynamic environment that fosters continuous learning, collaboration, and personal growth.
+Welcome to the StudyNotion EdTech Project! This web application aims to revolutionize the education experience by providing a comprehensive and innovative platform that empowers learners, educators, and institutions. The primary purpose is to create an inclusive and dynamic environment that fosters continuous learning, collaboration, and personal growth.
 
 ## Table of Contents
 - [Features](#features)
@@ -32,6 +32,19 @@ Welcome to the StudyNotion EdTech Project! This web application is designed to a
 
 10. **Accessibility Features**: Ensure that the platform is accessible to users with disabilities by incorporating features such as screen reader compatibility and alternative text for multimedia content.
 
+### Admin Route
+- **Domain Management**: Administrators can create and manage different domain categories.
+- **User Management**: Administrators can manage user accounts, roles, and permissions.
+
+### Instructor Route
+- **Course Creation**: Instructors can create and manage courses within specified domains.
+- **Content Management**: Instructors can post video classes, upload course materials, and update course content.
+- **Assessment Creation**: Instructors can create quizzes, assignments, and assessments for their courses.
+
+### Student Route
+- **Enrollment**: Students can enroll in courses within their domains of interest.
+- **Access to Course Content**: Students can access video classes, course materials, and assessments.
+- **Progress Tracking**: Students can track their progress within enrolled courses and view their grades and feedback.
 
 ## Technologies Used
 - [MERN Stack](https://www.mongodb.com/mern-stack): MongoDB, Express.js, React.js, Node.js
